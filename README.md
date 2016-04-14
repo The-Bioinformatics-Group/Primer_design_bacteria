@@ -1,14 +1,9 @@
 # Primer_design_bacteria
 
 ## Introduction
-I'm designing species specific PCR primers for identification of the three bacteria Alvar Almsted has worked with in (this project.)[https://github.com/alvaralmstedt/mthesis]
+I'm designing species specific PCR primers for identification of the three bacteria Alvar Almsted has worked with in [this project.](https://github.com/alvaralmstedt/mthesis)
 
 Data is located in /nobackup/data6/Primer_design_bacteria on Albiorix.
-
-### Design
-Guidlines for primer design can be found at e.g. (this site)[http://www.premierbiosoft.com/tech_notes/PCR_Primer_Design.html]
-The primer design software (Primer-BLAST)[http://www.ncbi.nlm.nih.gov/tools/primer-blast/] at NCBI was used.
-The hypervariable V3 and V4 regions where first identified in the 16S regions of the three bacteria analysed by Alvar using V-Xtractor	.
 
 ### Result
 
