@@ -8,7 +8,7 @@ Data is located in /nobackup/data6/Primer_design_bacteria on Albiorix.
 ### Result
 
 Genome | Primer name | Sequence | Length | %GC | Tm °C | Frag. length
--------|-------------|----------|--------|----|---
+-------|-------------|----------|--------|-----|-------|-------------
 unitig_0 | U0V1fw | GAG AAA GCA CTT CGG TGT GAG | 21 | 52 | 54.4 | 1222
 unitig_0 | U0V8rev | GAG CGG TTT TAT GGG ATT CGC | 21 | 52 | 54.4 | 1222
 unitig_1 & 2 | KSV2fw | CCT CAT AGT ACT GTT GAA TCG CC | 23 | 48 | 55.3 | 669
