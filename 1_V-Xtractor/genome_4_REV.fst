@@ -1,0 +1,1 @@
+../3_extracting_16S/reassembled_genome_4_full_REV.fasta

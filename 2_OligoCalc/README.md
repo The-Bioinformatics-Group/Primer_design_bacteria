@@ -35,7 +35,7 @@ Potential hairpin formation : None !
 3' Complementarity: None !
 All potential self-annealing sites are marked in red (allowing 1 mis-match): None !
 
-## Unitig_1 and 2
+## unitig_1 and 2
 These unitigs are part of the same Kordia genome. The identified V-regions are identical in sequence.
 The primers KSV2fw and KSV5rev will amplify a fragment of length 669 bp.
 

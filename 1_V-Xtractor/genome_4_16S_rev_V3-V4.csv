@@ -1,0 +1,4 @@
+Command:,vxtractor.pl -h HMMs/SSU/bacteria/ -r V3 -r V4 -o genome_4_16S_rev_V3-V4.fasta -c genome_4_16S_rev_V3-V4.csv genome_4_16S_rev.fasta
+Options:,Don't include HMM in fasta
+Sequence,V3leftlong,V3leftshort,V3rightlong,V3rightshort,V4leftlong,V4leftshort,V4rightlong,V4rightshort,V3,V4
+"'R_genome_4_16S_rev","'notfound","'notfound","'notfound","'notfound","'notfound","'notfound","'notfound","'notfound","'notfound","'notfound","'"

@@ -1,0 +1,4 @@
+Command:,vxtractor.pl -h HMMs/SSU/bacteria/ -r V3 -r V4 -o unitig_0_V3-V4.fasta -c unitig_0_V3-V4.csv unitig_0_16S.fasta
+Options:,Don't include HMM in fasta
+Sequence,V3leftlong,V3leftshort,V3rightlong,V3rightshort,V4leftlong,V4leftshort,V4rightlong,V4rightshort,V3,V4
+"'unitig_0_16S","'356-400","'364-400","'464-508","'464-496","'531-572","'531-572","'658-707","'658-707","'401-463","'573-657","'"

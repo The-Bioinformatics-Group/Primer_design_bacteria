@@ -1,0 +1,1017 @@
+BLASTN 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: reassembled_genome_4_full.fasta
+           1 sequences; 3,861,475 total letters
+
+
+
+Query= U0V1fw
+
+Length=21
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Genome_4                                                            26.3    0.43 
+
+
+> Genome_4
+Length=3861475
+
+ Score = 26.3 bits (13),  Expect = 0.43
+ Identities = 13/13 (100%), Gaps = 0/13 (0%)
+ Strand=Plus/Plus
+
+Query  8        CACTTCGGTGTGA  20
+                |||||||||||||
+Sbjct  2261978  CACTTCGGTGTGA  2261990
+
+
+ Score = 24.3 bits (12),  Expect = 1.7
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  3        GAAAGCACTTCG  14
+                ||||||||||||
+Sbjct  1362857  GAAAGCACTTCG  1362868
+
+
+ Score = 24.3 bits (12),  Expect = 1.7
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  9        ACTTCGGTGTGA  20
+                ||||||||||||
+Sbjct  2678541  ACTTCGGTGTGA  2678552
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  3       GAAAGCACTTC  13
+               |||||||||||
+Sbjct  582822  GAAAGCACTTC  582832
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  4       AAAGCACTTCG  14
+               |||||||||||
+Sbjct  946699  AAAGCACTTCG  946689
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  2        AGAAAGCACTT  12
+                |||||||||||
+Sbjct  1093405  AGAAAGCACTT  1093395
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  10       CTTCGGTGTGA  20
+                |||||||||||
+Sbjct  1098161  CTTCGGTGTGA  1098171
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  1        GAGAAAGCACT  11
+                |||||||||||
+Sbjct  1711938  GAGAAAGCACT  1711948
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  3        GAAAGCACTTC  13
+                |||||||||||
+Sbjct  2046848  GAAAGCACTTC  2046838
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  10       CTTCGGTGTGA  20
+                |||||||||||
+Sbjct  2125464  CTTCGGTGTGA  2125474
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  7        GCACTTCGGTG  17
+                |||||||||||
+Sbjct  2125853  GCACTTCGGTG  2125863
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  2        AGAAAGCACTT  12
+                |||||||||||
+Sbjct  2630100  AGAAAGCACTT  2630110
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  3        GAAAGCACTTC  13
+                |||||||||||
+Sbjct  2683641  GAAAGCACTTC  2683651
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  5        AAGCACTTCGG  15
+                |||||||||||
+Sbjct  3042162  AAGCACTTCGG  3042152
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  11       TTCGGTGTGAG  21
+                |||||||||||
+Sbjct  3479909  TTCGGTGTGAG  3479899
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 34753167
+
+
+Query= U0V8rev
+
+Length=21
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Genome_4                                                            24.3    1.7  
+
+
+> Genome_4
+Length=3861475
+
+ Score = 24.3 bits (12),  Expect = 1.7
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Minus
+
+Query  5      GGTTTTATGGGA  16
+              ||||||||||||
+Sbjct  27065  GGTTTTATGGGA  27054
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 14/15 (93%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1       GAGCGGTTTTATGGG  15
+               |||||| ||||||||
+Sbjct  254028  GAGCGGCTTTATGGG  254014
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  7        TTTTATGGGAT  17
+                |||||||||||
+Sbjct  1008886  TTTTATGGGAT  1008896
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  5        GGTTTTATGGG  15
+                |||||||||||
+Sbjct  2184591  GGTTTTATGGG  2184601
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  9        TTATGGGATTC  19
+                |||||||||||
+Sbjct  2332546  TTATGGGATTC  2332536
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  4        CGGTTTTATGG  14
+                |||||||||||
+Sbjct  2917055  CGGTTTTATGG  2917045
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  1        GAGCGGTTTTA  11
+                |||||||||||
+Sbjct  3038382  GAGCGGTTTTA  3038392
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  5        GGTTTTATGGG  15
+                |||||||||||
+Sbjct  3293703  GGTTTTATGGG  3293713
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  3        GCGGTTTTATG  13
+                |||||||||||
+Sbjct  3320912  GCGGTTTTATG  3320902
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 14/15 (93%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6        GTTTTATGGGATTCG  20
+                ||||| |||||||||
+Sbjct  3401406  GTTTTTTGGGATTCG  3401420
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  4        CGGTTTTATGG  14
+                |||||||||||
+Sbjct  3597255  CGGTTTTATGG  3597245
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 34753167
+
+
+Query= KSV2fw
+
+Length=23
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Genome_4                                                            24.3    1.9  
+
+
+> Genome_4
+Length=3861475
+
+ Score = 24.3 bits (12),  Expect = 1.9
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  12       TGTTGAATCGCC  23
+                ||||||||||||
+Sbjct  1698343  TGTTGAATCGCC  1698354
+
+
+ Score = 24.3 bits (12),  Expect = 1.9
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  12       TGTTGAATCGCC  23
+                ||||||||||||
+Sbjct  2319892  TGTTGAATCGCC  2319903
+
+
+ Score = 22.3 bits (11),  Expect = 7.5
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  9       TACTGTTGAAT  19
+               |||||||||||
+Sbjct  488551  TACTGTTGAAT  488541
+
+
+ Score = 22.3 bits (11),  Expect = 7.5
+ Identities = 14/15 (93%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1        CCTCATAGTACTGTT  15
+                ||||||||| |||||
+Sbjct  2766781  CCTCATAGTTCTGTT  2766767
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 38614620
+
+
+Query= KSV5rev
+
+Length=21
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Genome_4                                                            28.2    0.11 
+
+
+> Genome_4
+Length=3861475
+
+ Score = 28.2 bits (14),  Expect = 0.11
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  2        ACCAAAGTCCAAAC  15
+                ||||||||||||||
+Sbjct  1665297  ACCAAAGTCCAAAC  1665284
+
+
+ Score = 24.3 bits (12),  Expect = 1.7
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Minus
+
+Query  5       AAAGTCCAAACA  16
+               ||||||||||||
+Sbjct  274304  AAAGTCCAAACA  274293
+
+
+ Score = 24.3 bits (12),  Expect = 1.7
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  7        AGTCCAAACAGC  18
+                ||||||||||||
+Sbjct  2425958  AGTCCAAACAGC  2425969
+
+
+ Score = 24.3 bits (12),  Expect = 1.7
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  6        AAGTCCAAACAG  17
+                ||||||||||||
+Sbjct  3296130  AAGTCCAAACAG  3296141
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  8      GTCCAAACAGC  18
+              |||||||||||
+Sbjct  59298  GTCCAAACAGC  59288
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  4      CAAAGTCCAAA  14
+              |||||||||||
+Sbjct  61574  CAAAGTCCAAA  61584
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  8       GTCCAAACAGC  18
+               |||||||||||
+Sbjct  179550  GTCCAAACAGC  179560
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  8       GTCCAAACAGC  18
+               |||||||||||
+Sbjct  663823  GTCCAAACAGC  663833
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  7       AGTCCAAACAG  17
+               |||||||||||
+Sbjct  778586  AGTCCAAACAG  778596
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  9       TCCAAACAGCT  19
+               |||||||||||
+Sbjct  981994  TCCAAACAGCT  981984
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  6        AAGTCCAAACA  16
+                |||||||||||
+Sbjct  1348621  AAGTCCAAACA  1348631
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  1        GACCAAAGTCC  11
+                |||||||||||
+Sbjct  1479577  GACCAAAGTCC  1479567
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  5        AAAGTCCAAAC  15
+                |||||||||||
+Sbjct  1810991  AAAGTCCAAAC  1811001
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  1        GACCAAAGTCC  11
+                |||||||||||
+Sbjct  1870854  GACCAAAGTCC  1870844
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  8        GTCCAAACAGC  18
+                |||||||||||
+Sbjct  2404881  GTCCAAACAGC  2404891
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  1        GACCAAAGTCC  11
+                |||||||||||
+Sbjct  2409102  GACCAAAGTCC  2409092
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  7        AGTCCAAACAG  17
+                |||||||||||
+Sbjct  2670272  AGTCCAAACAG  2670262
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  2        ACCAAAGTCCA  12
+                |||||||||||
+Sbjct  2757433  ACCAAAGTCCA  2757443
+
+
+ Score = 22.3 bits (11),  Expect = 6.7
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  2        ACCAAAGTCCA  12
+                |||||||||||
+Sbjct  3001087  ACCAAAGTCCA  3001097
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 34753167
+
+
+Query= G4V1fw
+
+Length=20
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Genome_4                                                            40.1    3e-05
+
+
+> Genome_4
+Length=3861475
+
+ Score = 40.1 bits (20),  Expect = 3e-05
+ Identities = 20/20 (100%), Gaps = 0/20 (0%)
+ Strand=Plus/Minus
+
+Query  1        CAAGTCGAACGAGAAGCTAC  20
+                ||||||||||||||||||||
+Sbjct  3524915  CAAGTCGAACGAGAAGCTAC  3524896
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  3       AGTCGAACGAGA  14
+               ||||||||||||
+Sbjct  518394  AGTCGAACGAGA  518405
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  7        GAACGAGAAGCT  18
+                ||||||||||||
+Sbjct  2126224  GAACGAGAAGCT  2126235
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Plus
+
+Query  7        GAACGAGAAGCT  18
+                ||||||||||||
+Sbjct  2412745  GAACGAGAAGCT  2412756
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Minus
+
+Query  7        GAACGAGAAGCT  18
+                ||||||||||||
+Sbjct  3620618  GAACGAGAAGCT  3620607
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  6       CGAACGAGAAG  16
+               |||||||||||
+Sbjct  504475  CGAACGAGAAG  504485
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  1       CAAGTCGAACG  11
+               |||||||||||
+Sbjct  529070  CAAGTCGAACG  529060
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  7        GAACGAGAAGC  17
+                |||||||||||
+Sbjct  1120749  GAACGAGAAGC  1120739
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  2        AAGTCGAACGA  12
+                |||||||||||
+Sbjct  1124425  AAGTCGAACGA  1124415
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  6        CGAACGAGAAG  16
+                |||||||||||
+Sbjct  2020663  CGAACGAGAAG  2020673
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  4        GTCGAACGAGA  14
+                |||||||||||
+Sbjct  2440347  GTCGAACGAGA  2440357
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  10       CGAGAAGCTAC  20
+                |||||||||||
+Sbjct  2763198  CGAGAAGCTAC  2763188
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  7        GAACGAGAAGC  17
+                |||||||||||
+Sbjct  2813683  GAACGAGAAGC  2813693
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  1        CAAGTCGAACG  11
+                |||||||||||
+Sbjct  2834535  CAAGTCGAACG  2834545
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  1        CAAGTCGAACG  11
+                |||||||||||
+Sbjct  3377315  CAAGTCGAACG  3377305
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  6        CGAACGAGAAG  16
+                |||||||||||
+Sbjct  3592821  CGAACGAGAAG  3592831
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 30891704
+
+
+Query= G4V9rev
+
+Length=20
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  Genome_4                                                            40.1    3e-05
+
+
+> Genome_4
+Length=3861475
+
+ Score = 40.1 bits (20),  Expect = 3e-05
+ Identities = 20/20 (100%), Gaps = 0/20 (0%)
+ Strand=Plus/Plus
+
+Query  1        CACCTTCGGGTAAAGCCAAC  20
+                ||||||||||||||||||||
+Sbjct  3523581  CACCTTCGGGTAAAGCCAAC  3523600
+
+
+ Score = 26.3 bits (13),  Expect = 0.38
+ Identities = 13/13 (100%), Gaps = 0/13 (0%)
+ Strand=Plus/Plus
+
+Query  8        GGGTAAAGCCAAC  20
+                |||||||||||||
+Sbjct  1045240  GGGTAAAGCCAAC  1045252
+
+
+ Score = 26.3 bits (13),  Expect = 0.38
+ Identities = 13/13 (100%), Gaps = 0/13 (0%)
+ Strand=Plus/Minus
+
+Query  7        CGGGTAAAGCCAA  19
+                |||||||||||||
+Sbjct  1838191  CGGGTAAAGCCAA  1838179
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Minus
+
+Query  9       GGTAAAGCCAAC  20
+               ||||||||||||
+Sbjct  679157  GGTAAAGCCAAC  679146
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Minus
+
+Query  6        TCGGGTAAAGCC  17
+                ||||||||||||
+Sbjct  2121647  TCGGGTAAAGCC  2121636
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Minus
+
+Query  9        GGTAAAGCCAAC  20
+                ||||||||||||
+Sbjct  2857914  GGTAAAGCCAAC  2857903
+
+
+ Score = 24.3 bits (12),  Expect = 1.5
+ Identities = 12/12 (100%), Gaps = 0/12 (0%)
+ Strand=Plus/Minus
+
+Query  5        TTCGGGTAAAGC  16
+                ||||||||||||
+Sbjct  3346990  TTCGGGTAAAGC  3346979
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  8       GGGTAAAGCCA  18
+               |||||||||||
+Sbjct  229234  GGGTAAAGCCA  229244
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  9       GGTAAAGCCAA  19
+               |||||||||||
+Sbjct  232617  GGTAAAGCCAA  232607
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  8       GGGTAAAGCCA  18
+               |||||||||||
+Sbjct  258033  GGGTAAAGCCA  258043
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  1       CACCTTCGGGT  11
+               |||||||||||
+Sbjct  289802  CACCTTCGGGT  289792
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  9       GGTAAAGCCAA  19
+               |||||||||||
+Sbjct  319575  GGTAAAGCCAA  319585
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  7       CGGGTAAAGCC  17
+               |||||||||||
+Sbjct  431784  CGGGTAAAGCC  431774
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  4       CTTCGGGTAAA  14
+               |||||||||||
+Sbjct  848806  CTTCGGGTAAA  848816
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  7       CGGGTAAAGCC  17
+               |||||||||||
+Sbjct  851208  CGGGTAAAGCC  851218
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  3        CCTTCGGGTAA  13
+                |||||||||||
+Sbjct  1022172  CCTTCGGGTAA  1022182
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  10       GTAAAGCCAAC  20
+                |||||||||||
+Sbjct  1371570  GTAAAGCCAAC  1371560
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  9        GGTAAAGCCAA  19
+                |||||||||||
+Sbjct  1497145  GGTAAAGCCAA  1497135
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  7        CGGGTAAAGCC  17
+                |||||||||||
+Sbjct  1576927  CGGGTAAAGCC  1576917
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  1        CACCTTCGGGT  11
+                |||||||||||
+Sbjct  1898959  CACCTTCGGGT  1898969
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  4        CTTCGGGTAAA  14
+                |||||||||||
+Sbjct  1901131  CTTCGGGTAAA  1901121
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  9        GGTAAAGCCAA  19
+                |||||||||||
+Sbjct  2396448  GGTAAAGCCAA  2396438
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  9        GGTAAAGCCAA  19
+                |||||||||||
+Sbjct  2451692  GGTAAAGCCAA  2451702
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Plus
+
+Query  5        TTCGGGTAAAG  15
+                |||||||||||
+Sbjct  3062086  TTCGGGTAAAG  3062096
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  1        CACCTTCGGGT  11
+                |||||||||||
+Sbjct  3114951  CACCTTCGGGT  3114941
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  4        CTTCGGGTAAA  14
+                |||||||||||
+Sbjct  3340417  CTTCGGGTAAA  3340407
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  5        TTCGGGTAAAG  15
+                |||||||||||
+Sbjct  3441006  TTCGGGTAAAG  3440996
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  2        ACCTTCGGGTA  12
+                |||||||||||
+Sbjct  3476085  ACCTTCGGGTA  3476075
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  2        ACCTTCGGGTA  12
+                |||||||||||
+Sbjct  3524897  ACCTTCGGGTA  3524887
+
+
+ Score = 22.3 bits (11),  Expect = 6.0
+ Identities = 11/11 (100%), Gaps = 0/11 (0%)
+ Strand=Plus/Minus
+
+Query  9        GGTAAAGCCAA  19
+                |||||||||||
+Sbjct  3679149  GGTAAAGCCAA  3679139
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 30891704
+
+
+  Database: reassembled_genome_4_full.fasta
+    Posted date:  Apr 22, 2016  10:04 AM
+  Number of letters in database: 3,861,475
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2
